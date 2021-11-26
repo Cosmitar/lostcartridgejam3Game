@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/lostcartridgejam3Game/static/css/main.e344891f.chunk.css",
-    "main.js": "/lostcartridgejam3Game/static/js/main.542ce45d.chunk.js",
-    "main.js.map": "/lostcartridgejam3Game/static/js/main.542ce45d.chunk.js.map",
-    "runtime-main.js": "/lostcartridgejam3Game/static/js/runtime-main.7a8974af.js",
-    "runtime-main.js.map": "/lostcartridgejam3Game/static/js/runtime-main.7a8974af.js.map",
-    "static/js/2.8b9c775b.chunk.js": "/lostcartridgejam3Game/static/js/2.8b9c775b.chunk.js",
-    "static/js/2.8b9c775b.chunk.js.map": "/lostcartridgejam3Game/static/js/2.8b9c775b.chunk.js.map",
-    "static/js/3.5e7d0f9d.chunk.js": "/lostcartridgejam3Game/static/js/3.5e7d0f9d.chunk.js",
-    "static/js/3.5e7d0f9d.chunk.js.map": "/lostcartridgejam3Game/static/js/3.5e7d0f9d.chunk.js.map",
+    "main.js": "/lostcartridgejam3Game/static/js/main.8c72c644.chunk.js",
+    "main.js.map": "/lostcartridgejam3Game/static/js/main.8c72c644.chunk.js.map",
+    "runtime-main.js": "/lostcartridgejam3Game/static/js/runtime-main.80fdc0aa.js",
+    "runtime-main.js.map": "/lostcartridgejam3Game/static/js/runtime-main.80fdc0aa.js.map",
+    "static/js/2.4936efa4.chunk.js": "/lostcartridgejam3Game/static/js/2.4936efa4.chunk.js",
+    "static/js/2.4936efa4.chunk.js.map": "/lostcartridgejam3Game/static/js/2.4936efa4.chunk.js.map",
+    "static/js/3.b73e7e3d.chunk.js": "/lostcartridgejam3Game/static/js/3.b73e7e3d.chunk.js",
+    "static/js/3.b73e7e3d.chunk.js.map": "/lostcartridgejam3Game/static/js/3.b73e7e3d.chunk.js.map",
     "index.html": "/lostcartridgejam3Game/index.html",
     "static/css/main.e344891f.chunk.css.map": "/lostcartridgejam3Game/static/css/main.e344891f.chunk.css.map",
-    "static/js/2.8b9c775b.chunk.js.LICENSE.txt": "/lostcartridgejam3Game/static/js/2.8b9c775b.chunk.js.LICENSE.txt"
+    "static/js/2.4936efa4.chunk.js.LICENSE.txt": "/lostcartridgejam3Game/static/js/2.4936efa4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a8974af.js",
-    "static/js/2.8b9c775b.chunk.js",
+    "static/js/runtime-main.80fdc0aa.js",
+    "static/js/2.4936efa4.chunk.js",
     "static/css/main.e344891f.chunk.css",
-    "static/js/main.542ce45d.chunk.js"
+    "static/js/main.8c72c644.chunk.js"
   ]
 }
