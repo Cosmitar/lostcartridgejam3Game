@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/lostcartridgejam3Game/static/css/main.e344891f.chunk.css",
-    "main.js": "/lostcartridgejam3Game/static/js/main.9e6dfeab.chunk.js",
-    "main.js.map": "/lostcartridgejam3Game/static/js/main.9e6dfeab.chunk.js.map",
-    "runtime-main.js": "/lostcartridgejam3Game/static/js/runtime-main.80fdc0aa.js",
-    "runtime-main.js.map": "/lostcartridgejam3Game/static/js/runtime-main.80fdc0aa.js.map",
-    "static/js/2.dd4c0e66.chunk.js": "/lostcartridgejam3Game/static/js/2.dd4c0e66.chunk.js",
-    "static/js/2.dd4c0e66.chunk.js.map": "/lostcartridgejam3Game/static/js/2.dd4c0e66.chunk.js.map",
-    "static/js/3.b73e7e3d.chunk.js": "/lostcartridgejam3Game/static/js/3.b73e7e3d.chunk.js",
-    "static/js/3.b73e7e3d.chunk.js.map": "/lostcartridgejam3Game/static/js/3.b73e7e3d.chunk.js.map",
+    "main.css": "/lostcartridgejam3Game/static/css/main.cb86b34d.chunk.css",
+    "main.js": "/lostcartridgejam3Game/static/js/main.bcdca9ce.chunk.js",
+    "main.js.map": "/lostcartridgejam3Game/static/js/main.bcdca9ce.chunk.js.map",
+    "runtime-main.js": "/lostcartridgejam3Game/static/js/runtime-main.e00a8910.js",
+    "runtime-main.js.map": "/lostcartridgejam3Game/static/js/runtime-main.e00a8910.js.map",
+    "static/js/2.fd18dda4.chunk.js": "/lostcartridgejam3Game/static/js/2.fd18dda4.chunk.js",
+    "static/js/2.fd18dda4.chunk.js.map": "/lostcartridgejam3Game/static/js/2.fd18dda4.chunk.js.map",
+    "static/js/3.c1759a93.chunk.js": "/lostcartridgejam3Game/static/js/3.c1759a93.chunk.js",
+    "static/js/3.c1759a93.chunk.js.map": "/lostcartridgejam3Game/static/js/3.c1759a93.chunk.js.map",
     "index.html": "/lostcartridgejam3Game/index.html",
-    "static/css/main.e344891f.chunk.css.map": "/lostcartridgejam3Game/static/css/main.e344891f.chunk.css.map",
-    "static/js/2.dd4c0e66.chunk.js.LICENSE.txt": "/lostcartridgejam3Game/static/js/2.dd4c0e66.chunk.js.LICENSE.txt"
+    "static/css/main.cb86b34d.chunk.css.map": "/lostcartridgejam3Game/static/css/main.cb86b34d.chunk.css.map",
+    "static/js/2.fd18dda4.chunk.js.LICENSE.txt": "/lostcartridgejam3Game/static/js/2.fd18dda4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.80fdc0aa.js",
-    "static/js/2.dd4c0e66.chunk.js",
-    "static/css/main.e344891f.chunk.css",
-    "static/js/main.9e6dfeab.chunk.js"
+    "static/js/runtime-main.e00a8910.js",
+    "static/js/2.fd18dda4.chunk.js",
+    "static/css/main.cb86b34d.chunk.css",
+    "static/js/main.bcdca9ce.chunk.js"
   ]
 }
