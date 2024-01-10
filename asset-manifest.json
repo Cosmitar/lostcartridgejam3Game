@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/lostcartridgejam3Game/static/css/main.5d14504a.chunk.css",
-    "main.js": "/lostcartridgejam3Game/static/js/main.981db14d.chunk.js",
-    "main.js.map": "/lostcartridgejam3Game/static/js/main.981db14d.chunk.js.map",
-    "runtime-main.js": "/lostcartridgejam3Game/static/js/runtime-main.4413e70d.js",
-    "runtime-main.js.map": "/lostcartridgejam3Game/static/js/runtime-main.4413e70d.js.map",
-    "static/js/2.2936fc5c.chunk.js": "/lostcartridgejam3Game/static/js/2.2936fc5c.chunk.js",
-    "static/js/2.2936fc5c.chunk.js.map": "/lostcartridgejam3Game/static/js/2.2936fc5c.chunk.js.map",
-    "static/js/3.67d5d9d8.chunk.js": "/lostcartridgejam3Game/static/js/3.67d5d9d8.chunk.js",
-    "static/js/3.67d5d9d8.chunk.js.map": "/lostcartridgejam3Game/static/js/3.67d5d9d8.chunk.js.map",
-    "index.html": "/lostcartridgejam3Game/index.html",
-    "static/css/main.5d14504a.chunk.css.map": "/lostcartridgejam3Game/static/css/main.5d14504a.chunk.css.map",
-    "static/js/2.2936fc5c.chunk.js.LICENSE.txt": "/lostcartridgejam3Game/static/js/2.2936fc5c.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.3b96d0e6.chunk.css",
+    "main.js": "./static/js/main.dbbae159.chunk.js",
+    "main.js.map": "./static/js/main.dbbae159.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.b4eadae2.js",
+    "runtime-main.js.map": "./static/js/runtime-main.b4eadae2.js.map",
+    "static/js/2.f010934a.chunk.js": "./static/js/2.f010934a.chunk.js",
+    "static/js/2.f010934a.chunk.js.map": "./static/js/2.f010934a.chunk.js.map",
+    "static/js/3.67d5d9d8.chunk.js": "./static/js/3.67d5d9d8.chunk.js",
+    "static/js/3.67d5d9d8.chunk.js.map": "./static/js/3.67d5d9d8.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.3b96d0e6.chunk.css.map": "./static/css/main.3b96d0e6.chunk.css.map",
+    "static/js/2.f010934a.chunk.js.LICENSE.txt": "./static/js/2.f010934a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4413e70d.js",
-    "static/js/2.2936fc5c.chunk.js",
-    "static/css/main.5d14504a.chunk.css",
-    "static/js/main.981db14d.chunk.js"
+    "static/js/runtime-main.b4eadae2.js",
+    "static/js/2.f010934a.chunk.js",
+    "static/css/main.3b96d0e6.chunk.css",
+    "static/js/main.dbbae159.chunk.js"
   ]
 }
